@@ -94,7 +94,7 @@ If intAnswer = vbYes Then
     WScript.Sleep(30000)
      CreateObject("Wscript.Shell").run("txtout.exe")
         WScript.Sleep(60000)
-    CreateObject("Wscript.Shell").run("BraneyOS.exe")
+    CreateObject("Wscript.Shell").run("BarneyOS.exe")
     WScript.Sleep(2000)
     CreateObject("Wscript.Shell").run("ERROR422.exe")
     WScript.Sleep(1000)
